@@ -82,5 +82,3 @@ We welcome contributions from the community! To contribute to Taskify, follow th
 
 This project is licensed under the [MIT License](link-to-license-file).
 ```
-
-Please replace placeholders like `link-to-banner-image.png`, `your-username`, and others with appropriate content for your project. Also, ensure you have a `LICENSE` file containing the text of the MIT License.
